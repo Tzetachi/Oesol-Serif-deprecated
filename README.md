@@ -24,6 +24,10 @@ Oesol이 포함하는 풀어쓰기 한글 자모는, 대문자와 소문자의 �
 - 짧은 ㅡ: “ㅣ”의 앞에 붙어 /ɰ/ 음소를 나타냅니다; “ㅢ”의 “ㅡ”라고 생각하시면 됩니다.
 - 짧은 ㅣ: 운두의 /j/ 음소를 나타내며, 일반적인 표기에는 쓰이지 않고, 대신 “ㅑ”, “ㅒ”, “ㅕ”, “ㅖ”, “ㅛ”, “ㅠ” 등을 씁니다.
 
+## 입력
+
+Oesol 글꼴로 입력하기 위해서는 [ZyntharSekki](https://github.com/ZyntharSekki) 님이 만드신 날개셋 입력기용 자판 배열인 [Oesol-key](https://github.com/ZyntharSekki/Oesol-key)나 N. d. H. 님의 LaTeX 패키지인 [oesolscript](http://www.ktug.org/xe/index.php?document_srl=235641&mid=KTUG_open_board)(링크된 페이지의 댓글난에서 다운로드 가능.)를 이용할 수 있습니다.
+
 ## 그 밖의 사항들
 
 이 글꼴은 Google 社의 Noto Serif를 기반으로 수정하여 만들어졌으며, Noto Serif와 동일하게 SIL Open Font License하에 배포됩니다. SIL Open Font License에 대한 더 자세한 정보는 [이곳](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)에서 얻을 수 있습니다.
