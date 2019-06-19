@@ -26,7 +26,7 @@ Oesol이 포함하는 풀어쓰기 한글 자모는, 대문자와 소문자의 �
 
 ## 입력
 
-Oesol 글꼴로 입력하기 위해서는 [ZyntharSekki](https://github.com/ZyntharSekki) 님이 만드신 날개셋 입력기용 자판 배열인 [Oesol-key](https://github.com/ZyntharSekki/Oesol-key)나 N. d. H. 님의 LaTeX 패키지인 [oesolscript](http://www.ktug.org/xe/index.php?document_srl=235641&mid=KTUG_open_board)(링크된 페이지의 댓글난에서 다운로드 가능.)를 이용 수 있습니다.
+Oesol 글꼴로 입력하기 위해서는 [ZyntharSekki](https://github.com/ZyntharSekki) 님이 만드신 날개셋 입력기용 자판 배열인 [Oesol-key](https://github.com/ZyntharSekki/Oesol-key)나 N. d. H. 님의 LaTeX 패키지인 [oesolscript](http://www.ktug.org/xe/index.php?document_srl=235641&mid=KTUG_open_board)(링크된 페이지의 댓글난에서 다운로드 가능.)를 이용하실 수 있습니다.
 
 ## 그 밖의 사항들
 
