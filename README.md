@@ -1,5 +1,9 @@
 ![Oesol](image.png)
 
+알림: 이 글꼴은 더 이상 개발되지 않습니다. 외솔 풀어쓰기를 지원하는 최신 글꼴에 대해서는 [링크](https://github.com/Tzetachi/Computer-Modern-Unicode-Oesol)를 참고하십시오.
+
+Notice: This font is now deprecated. For a new font supporting Oesol disassembled Hangul, visit this [link](https://github.com/Tzetachi/Computer-Modern-Unicode-Oesol).
+
 # Oesol
 Oesol(외솔)은 언어학자 최현배 선생이 그의 저서 «글자의 혁명»에서 제안한 한글 풀어쓰기 안을 구현한 글꼴입니다. Oesol의 이름은 선생의 호(號) “외솔”에서 따온 것입니다.
 
